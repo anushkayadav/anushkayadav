@@ -1,8 +1,7 @@
-# Anushka Yadav :woman_technologist:
+# Anushka Yadav 
+<img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500">
 
-![img](https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif)
-
-### Hi there 👋  Welcome to my profile
+## Hi there 👋  Welcome to my profile
 
 Here's something about me :
 
