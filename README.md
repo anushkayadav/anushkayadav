@@ -1,6 +1,6 @@
 # Anushka Yadav :woman_technologist:
 
-[](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+![img](https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif)
 
 ### Hi there 👋  Welcome to my profile
 
