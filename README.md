@@ -1,5 +1,5 @@
 # Anushka Yadav 
-<img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500">
+<p align="center"><img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500" /> </p>
 
 ## Hi there 👋  Welcome to my profile
 
