@@ -5,8 +5,7 @@
 
 Here's something about me :
 
-- 💁‍♀️ I'm a Computer Science Student at IIIT Nagpur.
-- 📖 Currently learning about Autoencoders. 
+- 💁‍♀️ I'm a Computer Science Student at IIIT Nagpur. 
 - 🥽 Diving Deep and learning there!..Oh! That's **Deep Learning**😎🤓
 - 💙 Python
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-yadav/)](https://www.linkedin.com/in/anushka-yadav/)
