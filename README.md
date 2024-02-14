@@ -5,9 +5,8 @@
 
 Here's something about me :
 
-- 💁‍♀️ I'm a Computer Science Student at IIIT Nagpur. 
-- 🥽 Diving Deep and learning there!..Oh! That's **Deep Learning**😎🤓
+- 💁‍♀️ I'm a Computer Science Grad Student at Umass Amherst. 
 - 💙 Python
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-yadav/)](https://www.linkedin.com/in/anushka-yadav/)
-- ⚡ Fun fact: I am also an Artist 🎨🎨
+
 
